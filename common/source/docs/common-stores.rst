@@ -35,6 +35,7 @@ recommended for use with ArduPilot (in alphabetical order).  You may also want t
 * `uAvionix <http://www.uavionix.com/>`__
 * `VirtualRobotix <http://www.virtualrobotix.it/index.php/en/shop>`__
 * `3DXR <https://www.3dxr.co.uk/>`__
+* `Polaris-GNSS <https://www.polaris-gnss.com/>`__
 
 
 [copywiki destination="copter,plane,rover,planner,planner2,antennatracker,dev,ardupilot"]
